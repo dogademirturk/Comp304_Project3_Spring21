@@ -3,6 +3,7 @@
 ### Doğa Demirtürk
 ### İrem Şahin
 
+
 To run part1, please write "make p1" in the terminal and watch the results of part1 in the terminal.
  
 To run part2 with FIFO algorithm, please write "make p2fifo" in the terminal and watch the results of FIFO in the terminal.
